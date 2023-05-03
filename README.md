@@ -1,3 +1,6 @@
+> Updates Gradle to v7.6.1  
+> Updates Java to v17
+
 ### Source Code for Kafka Streams in Action
 
 Welcome to the source code for Kafka Streams in Action.  Here you'll find directions for running the example code from the book.  If any of the examples fail to produce output make sure
